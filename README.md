@@ -2,11 +2,6 @@
 
 This is a classic "Simon Says" memory game built with vanilla HTML, CSS, and JavaScript. It's a fun, simple project to test and improve your memory skills. The game flashes a sequence of colors, and the player must repeat the sequence in the correct order.
 
-## 📸 Preview
-
-*(Add a screenshot or a GIF of your game in action here. You can just drag-and-drop an image file into the `README.md` editor on GitHub.)*
-
-
 ## ✨ Features
 
 * **Classic Gameplay:** The game generates a random color sequence that grows longer with each level.
@@ -35,11 +30,11 @@ Since this project is built with static files (HTML, CSS, JS), you can run it lo
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+   git clone https://github.com/aditya060414/Simon-says.git
     ```
 2.  **Navigate to the directory:**
     ```bash
-    cd YOUR_REPOSITORY_NAME
+    cd Simon-Says
     ```
 3.  **Open the game:**
     Simply open the `index.html` file in your favorite web browser (like Chrome, Firefox, or Edge).
