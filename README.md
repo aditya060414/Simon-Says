@@ -2,7 +2,7 @@
 
 This is a classic "Simon Says" memory game built with vanilla HTML, CSS, and JavaScript. It's a fun, simple project to test and improve your memory skills. The game flashes a sequence of colors, and the player must repeat the sequence in the correct order.
 
-## ✨ Features
+## Features
 
 * **Classic Gameplay:** The game generates a random color sequence that grows longer with each level.
 * **Increasing Difficulty:** Each time you successfully complete a sequence, the level increases, and a new color is added.
@@ -14,7 +14,7 @@ This is a classic "Simon Says" memory game built with vanilla HTML, CSS, and Jav
 * **High Score:** It saves and displays your highest score during your session.
 * **Game Over & Restart:** If you make a mistake, the game ends and allows you to restart by pressing any key.
 
-## 💻 Technologies Used
+## Technologies Used
 
 * **HTML:** For the basic structure and content of the game.
 * **CSS:** For all styling, layout, and button flash animations.
@@ -24,7 +24,7 @@ This is a classic "Simon Says" memory game built with vanilla HTML, CSS, and Jav
     * Tracking game state (level, scores)
     * DOM manipulation to provide feedback
 
-## 🚀 How to Run
+## How to Run
 
 Since this project is built with static files (HTML, CSS, JS), you can run it locally without any special server.
 
